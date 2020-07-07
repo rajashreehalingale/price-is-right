@@ -1,7 +1,5 @@
 function calculateTotal(items) {
-  items.forEach(item => {
-    Calculate(item)
-  })
+  items.forEach(item => Calculate(item))
 
   return items
 }
